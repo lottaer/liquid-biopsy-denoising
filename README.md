@@ -15,7 +15,7 @@ The files are organized as follows:
 
 - `autotuning.R`: methods for tuning model parameters in denoising autoencoder and rolling median tuning.
 - `denoising.R`: methods for denoising: including rolling median denoising, Bayesian change point detection, constructing denoising autoencoder and making predictions.
-- `estimation_functions.R`: functions for estimating sample purity and subclonal ratio.       The estimation of the sample purity and subclonal ratio is based on `liquidCNA` created by [Lakatos et al](https://github.com/elakatos/liquidCNA).
+- `estimation_functions.R`: functions for estimating sample purity and subclonal ratio.       The estimation of the sample purity and subclonal ratio is based on `liquidCNA` created by [Lakatos et al.](https://github.com/elakatos/liquidCNA).
 - `evaluation.R`: helper functions for method evaluation.
 - `handle_data.R`: methods for reading data from disk.
 - `main.R`: contains the thesis workflow.
@@ -25,10 +25,10 @@ The files are organized as follows:
 
 ## Example data
 
-The folder `example_data` contains in silico mixed samples of blood and ovarian cancer, see the [Lakatos et. al. (2021)](https://www.sciencedirect.com/science/article/pii/S2589004221008579) for further reference.
+The folder `example_data` contains in silico mixed samples of blood and ovarian cancer, see the [Lakatos et al. (2021)](https://www.sciencedirect.com/science/article/pii/S2589004221008579) for further reference.
 
 ## License
-Estimation of purity and subclonal ratio from liquid biosy sequencing. Inspired by Lakatos et. al., <https://github.com/elakatos/liquidCNA>.
+Estimation of purity and subclonal ratio from liquid biosy sequencing. Inspired by Lakatos [Lakatos et al.](https://github.com/elakatos/liquidCNA).
 
 Copyright (C) 2024  Lotta Eriksson lottaer@chalmers.se & Linnea Hallin hallinl@chalmers.se
 

@@ -1,5 +1,5 @@
 #     Estimation of purity and subclonal ratio from liquid biosy sequencing. 
-#     Inspired by Lakatos et. al., <https://github.com/elakatos/liquidCNA>.
+#     Inspired by Lakatos et al., <https://github.com/elakatos/liquidCNA>.
 #     Copyright (C) 2024  Lotta Eriksson & Linnea Hallin
 #                    lottaer@chalmers.se   hallinl@chalmers.se
 # 
