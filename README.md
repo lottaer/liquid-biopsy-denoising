@@ -28,7 +28,7 @@ The files are organized as follows:
 The folder `example_data` contains in silico mixed samples of blood and ovarian cancer, see the [Lakatos et al. (2021)](https://www.sciencedirect.com/science/article/pii/S2589004221008579) for further reference.
 
 ## License
-Estimation of purity and subclonal ratio from liquid biosy sequencing. Inspired by Lakatos [Lakatos et al.](https://github.com/elakatos/liquidCNA).
+Estimation of purity and subclonal ratio from liquid biosy sequencing. Inspired by [Lakatos et al.](https://github.com/elakatos/liquidCNA)
 
 Copyright (C) 2024  Lotta Eriksson lottaer@chalmers.se & Linnea Hallin hallinl@chalmers.se
 
