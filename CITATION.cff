@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Eriksson"
+  given-names: "Lotta"
+- family-names: "Hallin"
+  given-names: "Linnea"
+title: "Deconvolution methods for quantification of copy number variations in liquid biopsy sequencing"
+version: 1.0.0
+doi: 10.5281/zenodo.11366699
+date-released: 2024-05-28
+url: "https://github.com/lottaer/liquid-biopsy-denoising"
+  
